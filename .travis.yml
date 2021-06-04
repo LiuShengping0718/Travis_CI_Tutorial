@@ -17,3 +17,6 @@ deploy:
     tags: true
     branch: tag
     repo: LiuShengping0718/Travis_CI_Tutorial
+notifications:
+ email:
+   - 1835997756@qq.com
