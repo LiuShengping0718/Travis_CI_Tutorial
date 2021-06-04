@@ -15,5 +15,5 @@ file:
 - .travis.yml
 on:
 tags: true
-branch: v3.0.0
+branch: tag
 repo: LiuShengping0718/Travis_CI_Tutorial
